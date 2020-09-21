@@ -1,0 +1,25 @@
+{
+  "name": "sosredacoes",
+  "version": "1.0.0",
+  "description": "An great help for you",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pereiraIgor/sosRedacoes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pereiraIgor/sosRedacoes/issues"
+  },
+  "homepage": "https://github.com/pereiraIgor/sosRedacoes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "save-dev": "0.0.1-security"
+  }
+}
